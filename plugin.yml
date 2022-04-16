@@ -1,0 +1,8 @@
+name: SimpleTroll
+main: pie.Main
+version: 1.0
+commands:
+  crash:
+    usage: /crash <player>
+  demo:
+    usage: /demo <player>
